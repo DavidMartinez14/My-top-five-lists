@@ -1,0 +1,35 @@
+body {
+  background-image: url("Dominican-Power.jpg");
+      background-color: #000000;
+      background-repeat: no-repeat;
+    padding:50px;
+    background-origin: content-box;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 500px 600px;
+    a:link {color: #FF0000}
+}
+h1 {text-align: left;
+    color: #E50505;
+}
+ol  {text-align: left;
+color: #E50505}
+ul  {text-align: left;
+color: #E50505}
+li  {text-align: left;color: #E50505}
+h1 {text-align: left;
+color: #E50505
+    font-size:50px
+}
+
+h2 {text-align: left;
+  color: #E50505
+}
+
+img  {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
